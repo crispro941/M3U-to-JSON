@@ -1,0 +1,65 @@
+{
+  "canales": [
+    {
+      "tvg-id": "156",
+      "tvg-name": "+ Listas en M3U.CL",
+      "tvg-logo": "https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png",
+      "url": "https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "4",
+      "tvg-name": "Retro Plus TV",
+      "tvg-logo": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+      "url": "https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "5",
+      "tvg-name": "Retro Plus TV Señal 2",
+      "tvg-logo": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",
+      "url": "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "465",
+      "tvg-name": "Retro Plus TV Señal 3",
+      "tvg-logo": "https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",
+      "url": "https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "521",
+      "tvg-name": "Recuerdos Retro Radio TV",
+      "tvg-logo": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+      "url": "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "1160",
+      "tvg-name": "VClassicTV",
+      "tvg-logo": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
+      "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "1255",
+      "tvg-name": "VClassicTV Tropical",
+      "tvg-logo": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
+      "url": "https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "31",
+      "tvg-name": "Portal FoxMix",
+      "tvg-logo": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
+      "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "1436",
+      "tvg-name": "Apanines TV",
+      "tvg-logo": "https://cdn.m3u.cl/logo/1436_Apanines_TV.png",
+      "url": "https://ssh101-fl.bozztv.com/ssh101/apaninestv/index.m3u8?PlaylistM3UCL"
+    },
+    {
+      "tvg-id": "1058",
+      "tvg-name": "Spectrum Channel",
+      "tvg-logo": "https://cdn.m3u.cl/logo/1058_Spectrum_Channel.png",
+      "url": "https://stream.skarnetchile.com:19360/spectrumchannel/spectrumchannel.m3u8?PlaylistM3UCL"
+    }
+    // Continúa con el resto de los canales...
+  ]
+}
